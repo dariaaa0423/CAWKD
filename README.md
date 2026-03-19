@@ -1,2 +1,2 @@
 # CAWKD
-This work comes from the paper “CAWKD: Cross Attention-Driven Knowledge Distillation with Wasserstein Distance for Unsupervised Domain Adaptation.”
+This work comes from the paper “CAWKD: Unsupervised Domain Adaptation for Cardiac Segmentation via Cross Attention-Driven Knowledge Distillation with Wasserstein Distance”
